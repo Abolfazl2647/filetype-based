@@ -43,7 +43,7 @@ auth layout - page layout - dashbaord layout will be placed in here.
 contains modules
 
 > [!NOTE]
-> they are not big as page and not small as components. in fact they are something like widgets. imagine you have a component that you may use in diffrent pages or creating a modal system that handles different modals. or aa player component that comes to page by clicking on any button on the page. I'm hoping you get the idea. best example would be youtube player which can be minimized to lower corner of the page
+> they are not big as page and not small as components. in fact they are something like widgets. imagine you have a component that you may use in different pages or creating a modal system that handles different modals or a player component that comes to page by clicking on any button on the page. I'm hoping you get the idea. best example would be youtube player which can be minimized to lower corner of the page
 
 # pages
 
