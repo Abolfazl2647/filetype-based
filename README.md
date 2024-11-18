@@ -2,11 +2,11 @@
 
 ## api
 
-in this folder there is two other folder called `types` and `routes`
+> in this folder there is two other folder called `types` and `routes`
 
 ### types
 
-we define all the types for request and response of any apis.
+> we define all the types for request and response of any apis.
 
 ### routes
 
